@@ -1,0 +1,9 @@
+name: MyStore
+description: My personal store written in angulardart
+dependencies:
+  angular: 0.9.8
+  browser: any
+  js: any
+  mockable_filesystem: any
+  shadow_dom: any
+  unittest: any
