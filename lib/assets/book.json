@@ -1,0 +1,365 @@
+[
+	{
+		"id": 4,
+		"name": "Java Programming Interviews Exposed",
+		"price": "$20",
+		"description": "A must-read book for any Java programmer",
+		"condition": "95% New",
+		"image": "book5.jpg"
+	},
+	{
+		"id": 9,
+		"name": "Problem Solving with Algorithms and Data Structures using Python",
+		"price": "$25",
+		"description": "Very comprehensive and essential for learning data structures and algorithms in Python",
+		"condition": "Barely Used",
+		"image": "book10.jpg"
+	},
+	{
+		"id": 10,
+		"name": "The Practice of Programming",
+		"price": "$10",
+		"description": "Used in CS265",
+		"condition": "Barely Used",
+		"image": "book11.jpg"
+	},
+	{
+		"id": 11,
+		"name": "Design Patterns - The gang of four",
+		"price": "$30",
+		"description": "A must-read book for any real software engineer",
+		"condition": "95% New",
+		"image": "book12.jpg"
+	},
+	{
+		"id": 13,
+		"name": "Introduction to Java Programming",
+		"price": "$40",
+		"description": "This book covers all topics in Java, from beginning to advance level",
+		"condition": "Barely Used",
+		"image": "book14.jpg"
+	},
+	{
+		"id": 15,
+		"name": "Single Page Web Applications",
+		"price": "$25",
+		"description": "Very essential for Web App Developments",
+		"condition": "New",
+		"image": "book16.jpg"
+	},
+	{
+		"id": 16,
+		"name": "Data Structures and Algorithms in Python",
+		"price": "$30",
+		"description": "Very comprehensive and essential for learning data structures and algorithms in Python",
+		"condition": "New",
+		"image": "book17.jpg"
+	},
+	{
+		"id": 17,
+		"name": "Cracking the Programming Interview",
+		"price": "$30",
+		"description": "One of the best book to help prepare for technical interviews",
+		"condition": "New",
+		"image": "book18.jpg"
+	},
+	{
+		"id": 19,
+		"name": "J2EE Design Patterns",
+		"price": "$20",
+		"description": "The book covers J2EE to help develop Java Enterprise Edition application",
+		"condition": "Barely Used",
+		"image": "book20.jpg"
+	},
+	{
+		"id": 20,
+		"name": "Android Programming",
+		"price": "$20",
+		"description": "Cover common techniques in Android Programming, used in CS275",
+		"condition": "Barely Used",
+		"image": "book21.jpg"
+	},
+	{
+		"id": 23,
+		"name": "Head First Object-Oriented Analysis & Design",
+		"price": "$25",
+		"description": "This book covers techniques in software designs",
+		"condition": "New",
+		"image": "book24.jpg"
+	},
+	{
+		"id": 26,
+		"name": "Programming Interviews Exposed",
+		"price": "$15",
+		"description": "Very essential to prepare for technical coding interviews",
+		"condition": "New",
+		"image": "book27.jpg"
+	},
+	{
+		"id": 27,
+		"name": "Coding Puzzles",
+		"price": "$10",
+		"description": "The book contains full solution to common questions asked during technical coding interviews",
+		"condition": "New",
+		"image": "book28.jpg"
+	},
+	{
+		"id": 30,
+		"name": "The Google Resume",
+		"price": "$15",
+		"description": "Best resource to help prepare for the interviews, from screening to technical",
+		"condition": "Barely Used",
+		"image": "book31.jpg"
+	},
+	{
+		"id": 31,
+		"name": "Big Java, Early Objects, 5th Edition",
+		"price": "$30",
+		"description": "The book covers knowledge in Java programming",
+		"condition": "New",
+		"image": "book32.jpg"
+	},
+	{
+		"id": 32,
+		"name": "Django Essentials",
+		"price": "$20",
+		"description": "The book covers techniques to develop web applications with Django framework",
+		"condition": "95% New",
+		"image": "book33.jpg"
+	},
+	{
+		"id": 33,
+		"name": "Professional Java for Web Applications",
+		"price": "$30",
+		"description": "The book covers building full stack web applications in Java",
+		"condition": "New",
+		"image": "book34.jpg"
+	},
+	{
+		"id": 36,
+		"name": "Peeling Design Patterns",
+		"price": "$10",
+		"description": "The book covers important software design patterns",
+		"condition": "Barely Used",
+		"image": "book37.jpg"
+	},
+	{
+		"id": 37,
+		"name": "Lightweight Django",
+		"price": "$20",
+		"description": "The book covers techniques in Django development",
+		"condition": "New",
+		"image": "book38.jpg"
+	},
+	{
+		"id": 38,
+		"name": "Android App Development",
+		"price": "$25",
+		"description": "The book covers all topics in Android Development",
+		"condition": "New",
+		"image": "book39.jpg"
+	},
+	{
+		"id": 40,
+		"name": "Two Scoops of Django",
+		"price": "$15",
+		"description": "The book covers Django apps development",
+		"condition": "Like New",
+		"image": "book41.jpg"
+	},
+	{
+		"id": 41,
+		"name": "Backbone Applications",
+		"price": "$20",
+		"description": "The book covers apps development in BackboneJS",
+		"condition": "New",
+		"image": "book42.jpg"
+	},
+	{
+		"id": 42,
+		"name": "Play for Java",
+		"price": "$15",
+		"description": "Best resource to learn Play Framework in Java",
+		"condition": "Barely Used",
+		"image": "book43.jpg"
+	},
+	{
+		"id": 43,
+		"name": "Big C++",
+		"price": "$30",
+		"description": "Best resource to learn C++, from beginner to advance level",
+		"condition": "New",
+		"image": "book44.jpg"
+	},
+	{
+		"id": 1,
+		"name": "Cracking the Coding Interview, 6th Edition",
+		"sold": true,
+		"price": "$25",
+		"description": "Very essential to prepare for any coding interviews",
+		"condition": "Barely Used",
+		"image": "book1.jpg"
+	},
+	{
+		"id": 2,
+		"name": "Cracking Programming Interviews",
+		"sold": true,
+		"price": "$20",
+		"description": "Very intense and essential to prepare for any coding interviews",
+		"condition": "Barely Used",
+		"image": "book3.jpg"
+	},
+	{
+		"id": 3,
+		"name": "Head First Design Patterns",
+		"sold": true,
+		"price": "$25",
+		"description": "The book shows design patterns in a very funny way",
+		"condition": "Barely Used",
+		"image": "book4.jpg"
+	},
+	{
+		"id": 5,
+		"name": "UML Distilled, 3rd Edition",
+		"sold": true,
+		"price": "$10",
+		"description": "Highly recommended for learning design patterns and CS350",
+		"condition": "New",
+		"image": "book6.jpg"
+	},
+	{
+		"id": 6,
+		"name": "Programming Languages",
+		"sold": true,
+		"price": "$35",
+		"description": "Very good book for learning programming languages techniques, used in CS360",
+		"condition": "95% New",
+		"image": "book7.jpg"
+	},
+	{
+		"id": 7,
+		"name": "Bootstrap",
+		"sold": true,
+		"price": "$10",
+		"description": "Very comprehensive book for learning bootstrap with the web",
+		"condition": "New",
+		"image": "book8.jpg"
+	},
+	{
+		"id": 8,
+		"name": "Android Programming, The Big Nerd Ranch Guide",
+		"sold": true,
+		"price": "$35",
+		"description": "A must-read for any Android developer",
+		"condition": "Barely Used",
+		"image": "book9.jpg"
+	},
+	{
+		"id": 12,
+		"name": "Data Structures and Algorithms in Java",
+		"sold": true,
+		"price": "$35",
+		"description": "Extremely comprehensive to learn data structures and algorithms in Java",
+		"condition": "Barely Used",
+		"image": "book13.jpg"
+	},
+	{
+		"id": 18,
+		"name": "Algorithm Design Manual",
+		"sold": true,
+		"price": "$30",
+		"description": "A very well-known book for learning algorithms",
+		"condition": "Like New",
+		"image": "book19.jpg"
+	},
+	{
+		"id": 14,
+		"name": "Algorithms, 3rd Edition",
+		"sold": true,
+		"price": "$50",
+		"description": "A very well-known book for algorithms",
+		"condition":  "New",
+		"image": "book15.jpg"
+	},
+	{
+		"id": 21,
+		"name": "Algorithms in Java, 3rd Edition, part 1-4",
+		"sold": true,
+		"price": "$25",
+		"description": "The book covers important topics in Algorithms",
+		"condition": "New",
+		"image": "book22.jpg"
+	},
+	{
+		"id": 22,
+		"name": "Algorithms in Java, 3rd Edition, part 5",
+		"sold": true,
+		"price": "$20",
+		"description": "The book covers Graph algorithms in Java",
+		"condition": "New",
+		"image": "book23.jpg"
+	},
+	{
+		"id": 24,
+		"name": "Java Concurrency in Practice",
+		"sold": true,
+		"price": "$20",
+		"description": "The book covers concurrency techniques in Java",
+		"condition": "New",
+		"image": "book25.jpg"
+	},
+	{
+		"id": 25,
+		"name": "Professional AngularJS",
+		"price": "$20",
+		"sold": true,
+		"description": "Advanced techniques in AngularJS app development",
+		"condition": "New",
+		"image": "book26.jpg"
+	},
+	{
+		"id": 28,
+		"name": "Effective Java, 2nd Edition",
+		"sold": true,
+		"price": "$20",
+		"description": "Best book about software development techniques in Java",
+		"condition": "95% New",
+		"image": "book29.jpg"
+	},
+	{
+		"id": 29,
+		"name": "Cracking the Coding Interview, 5th Edition",
+		"sold": true,
+		"price": "$10",
+		"description": "Best resource to prepare for technical interviews",
+		"condition": "95% New",
+		"image": "book30.jpg"
+	},
+	{
+		"id": 34,
+		"name": "Code Complete, 2nd Edition",
+		"sold": true,
+		"price": "$25",
+		"description": "One of the best books for software development",
+		"condition": "New",
+		"image": "book35.jpg"
+	},
+	{
+		"id": 35,
+		"name": "Data Structures and Algorithms Made Easy in Java",
+		"sold": true,
+		"price": "$20",
+		"description": "The book contains a lot of questions in different topics to prepare for technical coding interviews",
+		"condition": "Barely Used",
+		"image": "book36.jpg"
+	},
+	{
+		"id": 39,
+		"name": "Learning Web App Development",
+		"sold": true,
+		"price": "$20",
+		"description": "Best resource for developing web apps",
+		"condition": "New",
+		"image": "book40.jpg"
+	}
+]

@@ -1,0 +1,51 @@
+[
+	{
+		"id": 49,
+		"name": "Perforated Wide Rule Notebooks",
+		"price": "$0.50/each",
+		"description": "I have them in pack of 6, but I can always sell it separately, minimum buying quantity is 2",
+		"condition": "New",
+		"image": "supply1.jpg"
+	},
+	{
+		"id": 50,
+		"name": "Composition Wide Rule Notebooks",
+		"price": "$0.50/each",
+		"description": "I have them in pack of 3, but I can always sell it separately, minimum buying quantity is 2",
+		"condition": "New",
+		"image": "supply2.jpg"
+	},
+	{
+		"id": 51,
+		"name": "0.7' Gelio Black Pens",
+		"price": "$0.25/each",
+		"description": "I have them in pack of 12, minimum buying quantity is 6",
+		"condition": "New",
+		"image": "supply3.jpg"
+	},
+	{
+		"id": 52,
+		"name": "On-point Foray Black Pens",
+		"price": "$0.25/each",
+		"description": "I have them in pack of 12, minimum buying quantity is 6",
+		"condition": "New",
+		"image": "supply4.jpg"
+	},
+	{
+		"id": 54,
+		"name": "STM 11' Notebook Case",
+		"price": "$20",
+		"description": "High quality case",
+		"condition": "95% New",
+		"image": "supply6.jpg"
+	},
+	{
+		"id": 53,
+		"name": "Desk Lamp with Clip",
+		"sold": true,
+		"price": "$10",
+		"description": "Very good one, comes with a light bulb",
+		"condition": "Barely Used",
+		"image": "supply5.jpg"
+	}
+]

@@ -1,14 +1,94 @@
-<!DOCTYPE html>
-
+<!DOCTYPE HTML>
 <html ng-app>
-  <head>
-    <meta charset="utf-8">
-    <title>Tuan's Store</title>
-    <link rel="stylesheet" href="style.css">
-  </head>
-  <body>
-    <script src="packages/shadow_dom/shadow_dom.min.js"></script>
-    <script type="application/dart" src="main.dart"></script>
-    <script src="packages/browser/dart.js"></script>
-  </body>
+<head>
+    <title>Tuan's Store - My Personal Store</title>
+    <!-- meta info -->
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+    <meta name="keywords" content="Tuan Huu Minh Nguyen"/>
+    <meta name="description" content="Tuan's Personal Store">
+    <meta name="author" content="Tuan Nguyen">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Google fonts -->
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,300' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto:400,100,300' rel='stylesheet' type='text/css'>
+    <!-- Bootstrap styles -->
+    <link rel="stylesheet" href="css/boostrap.css">
+    <!-- Font Awesome styles (icons) -->
+    <link rel="stylesheet" href="css/font_awesome.css">
+    <!-- Main Template styles -->
+    <link rel="stylesheet" href="css/styles.css">
+    <!-- IE 8 Fallback -->
+    <!--[if lt IE 9]>
+    <link rel="stylesheet" type="text/css" href="css/downy.css"/>
+    <![endif]-->
+    <!-- Your custom styles (blank file) -->
+    <link rel="stylesheet" href="css/downy.css">
+</head>
+<body>
+<div class="global-wrap">
+    <div class="top-main-area text-center">
+        <div class="container">
+            <a ng-href="#/book" class="logo mt5">
+                <img src="img/logo.png" alt="Logo" title="Tuan's Store"/>
+            </a>
+        </div>
+    </div>
+    <div class="gap"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3">
+                <aside class="sidebar-left">
+                    <ul class="nav nav-tabs nav-stacked nav-coupon-category">
+                        <li ng-class="{active : path ==='/book'}"><a ng-href="#/book"><i
+                                class="fa fa-book"></i>Books</a>
+                        </li>
+                        <li ng-class="{active : path ==='/electronic'}"><a ng-href="#/electronic"><i
+                                class="fa fa-headphones"></i>Electronics</a>
+                        </li>
+                        <li ng-class="{active : path ==='/supply'}"><a ng-href="#/supply"><i class="fa fa-image"></i>School
+                            Supplies</a>
+                        </li>
+                        <li ng-class="{active : path ==='/accessories'}"><a ng-href="#/accessories"><i
+                                class="fa fa-umbrella"></i>Accessories</a>
+                        </li>
+                        <li ng-class="{active : path ==='/home'}"><a ng-href="#/home"><i class="fa fa-home"></i>Home</a>
+                        </li>
+                        <!-- <li ng-class="{active : path ==='/home'}"><a ng-href="#/home"><i class="fa fa-home"></i>Home</a>
+                        </li>
+                        <li ng-class="{active : path ==='/travel'}"><a ng-href="#/travel"><i class="fa fa-plane"></i>Travel</a>
+                        </li> -->
+                        <!-- <li ng-class="{active : path ==='/checkout'}"><a ng-href="#/checkout"><i class="fa fa-shopping-cart"></i>Checkout ({{length}} item(s))</a> -->
+                        </li>
+                    </ul>
+            </div>
+            <div class="col-md-9">
+                <div ng-hide="path === '/checkout' || path === '/submit'">
+                    <a ng-cloak class="btn btn-primary" ng-href="#/checkout"><i class="fa fa-shopping-cart"></i>
+                        Checkout ({{length}} item(s) in cart)</a>
+                    <div class="gap-mini"></div>
+                </div>
+                <div ng-view></div>
+                <!-- Implement items page navigation in the future -->
+                <!-- <ul class="pagination">
+                    <li class="prev disabled">
+                        <a href="#"></a>
+                    </li>
+                    <li class="active"><a href="#">1</a>
+                    </li>
+                    <li class="next">
+                        <a href="#"></a>
+                    </li>
+                </ul> -->
+                <div class="gap"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Scripts -->
+<script src="packages/shadow_dom/shadow_dom.min.js"></script>
+<script type="application/dart" src="main.dart"></script>
+<script src="packages/browser/dart.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+</body>
 </html>

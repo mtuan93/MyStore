@@ -1,0 +1,54 @@
+[
+	{
+		"id": 68,
+		"name": "Compact Bookshelf, Brown/Espresso",
+		"price": "$20",
+		"description": "Very spacious and compact, light and beautiful",
+		"condition": "Used",
+		"image": "home6.jpg"
+	},
+	{
+		"id": 66,
+		"name": "Frigidaire 5,000 BTU Air Conditioner",
+		"price": "$70",
+		"description": "Window-Mounted Mini-Compact with Full-Function Remote Control and energy-saving",
+		"condition": "Barely Used",
+		"image": "home1.jpg"
+	},
+	{
+		"id": 63,
+		"name": "Emily Convertible Futon, White",
+		"sold": true,
+		"price": "$120",
+		"description": "(Original price $200) A very comfortable and beautiful Futon, it can be used as a mattress",
+		"condition": "95% New",
+		"image": "home4.jpg"
+	},
+	{
+		"id": 64,
+		"name": "Plastic Storage Shelves",
+		"sold": true,
+		"price": "$15",
+		"description": "Durable and spacious, best for storing clothes",
+		"condition": "90% New",
+		"image": "home3.jpg"
+	},
+	{
+		"id": 65,
+		"name": "Turbo Force Whole Room Fan",
+		"sold": true,
+		"price": "$10",
+		"description": "High quality fan, small but strong",
+		"condition": "95% New",
+		"image": "home2.jpg"
+	},
+	{
+		"id": 67,
+		"name": "Office Chair",
+		"sold": true,
+		"price": "$30",
+		"description": "Comfortable chair",
+		"condition": "Used",
+		"image": "home5.jpg"
+	}
+]

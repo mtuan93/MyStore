@@ -1,0 +1,43 @@
+[
+	{
+		"id": 58,
+		"name": "Complete Retro Skateboard",
+		"price": "$30",
+		"description": "(Original price $50) Tiger Skateboards are the skateboards that all kids are raving about. Bringing back the retro look, Tiger Boards Complete Skateboard features a high quality plastic deck with a unique hexagon pattern for traction. Tiger Boards are made from the finest components including 78a wheels, aluminum colored trucks with 90a bushings, and high speed stainless steel Abec-7 bearings. You can even customize your Tiger Board with additional wheel colors and trucks.",
+		"condition": "New",
+		"image": "as1.jpg"
+	},
+	{
+		"id": 60,
+		"name": "Microsoft Sunglass",
+		"price": "$5",
+		"description": "High quality and awesome style",
+		"condition": "New",
+		"image": "as3.jpg"
+	},
+	{
+		"id": 61,
+		"name": "Facebook Sunglass",
+		"price": "$5",
+		"description": "High quality and awesome style",
+		"condition": "New",
+		"image": "as4.jpg"
+	},
+	{
+		"id": 62,
+		"name": "Chicago Bulls Hat",
+		"price": "$10",
+		"description": "High quality and awesome style",
+		"condition": "New",
+		"image": "as5.jpg"
+	},
+	{
+		"id": 59,
+		"name": "Microsoft Selfie Stick",
+		"sold": true,
+		"price": "$10",
+		"description": "I have multiple of this, I have been using this and I like it a lot",
+		"condition": "New",
+		"image": "as2.jpg"
+	}
+]

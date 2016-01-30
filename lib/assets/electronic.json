@@ -1,0 +1,67 @@
+[
+	{
+		"id": 44,
+		"name": "Samsung Galasy Tab S2, NOOK Version, Black",
+		"price": "$300",
+		"description": "(Original price >$350) A very powerful 8' tablet from Samsung and Barnes Noble, can compete with the Ipad Air",
+		"condition": "New",
+		"image": "electronic1.jpg"
+	},
+	{
+		"id": 55,
+		"name": "Samsung Galaxy Pro Tab 12.2 32GB, White",
+		"price": "$250",
+		"description": "Very high quality tablet, looks very professional",
+		"condition": "New",
+		"image": "electronic6.jpg"
+	},
+	{
+		"id": 56,
+		"name": "HP Stream 13 Laptop with Free Office 365 Personal for One Year (4G Version)",
+		"price": "$200",
+		"description": "Reviews on the web say the laptop is amazing",
+		"condition": "New",
+		"image": "electronic7.jpg"
+	},
+	{
+		"id": 57,
+		"name": "Toshiba Satellite C55-C5241 15.6 Inch Laptop",
+		"price": "$375",
+		"description": "This is one of the best selling laptops on Amazon, I used it for apps development all the time",
+		"condition": "New",
+		"image": "electronic8.jpg"
+	},
+	{
+		"id": 45,
+		"name": "Grove Starter Kit Plus - Intel IoT Edition for Intel Galileo",
+		"price": "$40",
+		"description": "(Original price > $60) It is a complete hardware software solution to help you explore the IoT space and create innovative projects. It is a starter kit for Intel Galileo, best choice for IoT developer to develop potential of Intel Galileo and build prototype built in Galileo",
+		"condition": "New",
+		"image": "electronic2.jpg"
+	},
+	{
+		"id": 46,
+		"name": "Intel Edison Kit",
+		"price": "$50",
+		"description": "(Original price > &80) Great for remote control, lots of features packed into a small unit",
+		"condition": "New",
+		"image": "electronic3.jpg"
+	},
+	{
+		"id": 48,
+		"name": "LG Quadbeat 2 Headphone",
+		"price": "$25",
+		"description": "High quality headphone from LG",
+		"condition": "New",
+		"image": "electronic5.jpg"
+	},
+	{
+		"id": 47,
+		"name": "Chicago Bulls Headphone",
+		"sold": true,
+		"price": "$15",
+		"description": "A very awesome headphones with awesome style and quality",
+		"condition": "Barely Used",
+		"image": "electronic4.jpg"
+	}
+]
